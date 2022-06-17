@@ -4,3 +4,13 @@ body{
 .highlight{
     color: orange;
 }
+.half-widht{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-widht img{
+    width: 100%;
+}
